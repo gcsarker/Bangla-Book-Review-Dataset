@@ -11,3 +11,14 @@
 - annotated_reviews.xlsx
   >Contains annotated 5200 reviews with rating. This file is used to train and evaluate the deep learning models.
 
+## Citation
+```
+@inproceedings{sarker2022book,
+  title={Book Review Sentiment Classification in Bangla using Deep Learning and Transformer Model},
+  author={Sarker, Gobinda Chandra and Sadat, Kazi Md and Das, Aditya},
+  booktitle={2022 4th International Conference on Sustainable Technologies for Industry 4.0 (STI)},
+  pages={1--6},
+  year={2022},
+  organization={IEEE}
+}
+```
